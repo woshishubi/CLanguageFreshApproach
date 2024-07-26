@@ -27,6 +27,8 @@ turnOn(0,4); // 点亮第0行第4列的灯    
 turnOn(0,5); // 点亮第0行第5列的灯    
 
 turnOn(1,4); // 点亮第1行第4列的灯
+
+
 ![image](https://github.com/user-attachments/assets/bc46f263-186f-4303-8d24-58396c599bdf)
 
 通过上述简单的四行代码，我们就能够在屏幕上勾勒出一个类似于俄罗斯方块的图案。
