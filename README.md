@@ -3,7 +3,7 @@ An Innovative Approach to Learning C Language with a Simulated Electronic Displa
 
 另辟蹊径学习C语言
 
-“模拟电子屏”项设计哲学是简洁至上，使用起来极为简便，真正做到了开箱即用。 
+“模拟电子屏”项目设计哲学是简洁至上，使用起来极为简便，真正做到了开箱即用。 
 项目提供了4个函数指令，它们是：
 
 （1）initGame() 函数：一键初始化，轻松设置屏幕大小，为接下来的精彩体验打下基础。
